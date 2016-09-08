@@ -2,7 +2,7 @@
 Curriculum for group 1 and 2
 Welcome to the The-Math-Group wiki!
 
-In this file repository you will find files categorized by the different curriculums. If you find a PDF od the same content at a higher quality or reduced size, feel free to fork in include the new PDF. Make sure to include the naming scheme: [Author's last name] - [name].pdf
+In this file repository you will find files categorized by the different curriculums. If you find a PDF od the same content at a higher quality or reduced size, feel free to fork in include the new PDF. Make sure to include the naming scheme: [Author's last name] - [full name of text].pdf
 
 # Group 1
 
